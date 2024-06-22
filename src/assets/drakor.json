@@ -1,0 +1,519 @@
+{
+  "actor": [
+    {
+      "id": 1,
+      "name": "Han So Hee",
+      "img": "https://m.media-amazon.com/images/M/MV5BNzg1NWE2NzAtNDY2Yi00NWUwLWJlMWYtZWZhYjRmMGYwZDIzXkEyXkFqcGdeQXVyMTI1OTY3MzM3._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ji Chang Wook",
+      "img": "https://i.mydramalist.com/ZyyEJ_5f.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Park Min Young",
+      "img": "https://asianwiki.com/images/8/82/Park_Min-Young-1986-p1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kim Tae Ri",
+      "img": "https://asianwiki.com/images/1/1d/Kim_Tae-Ri-1990-p1.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Lee Je Hoon",
+      "img": "https://assets.ayobandung.com/crop/0x0:0x0/x/photo/2023/04/18/Lee-Je-Hoon-2-2924964996.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Kim Soo Hyun",
+      "img": "https://images.soco.id/714-kim-soo-hyun-3.png.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Kang Tae Oh",
+      "img": "https://asianwiki.com/images/f/f3/Kang_Tae-Oh-1994-p1.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Nam Joo Hyuk",
+      "img": "https://i.mydramalist.com/250rk_5_c.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bona",
+      "img": "https://awsimages.detik.net.id/community/media/visual/2020/04/21/160ea39d-03b0-46bb-bda4-ca323b73ebdc.jpeg?w=1080"
+    },
+    {
+      "id": 10,
+      "name": "Choi Hyun Wook",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Choi_Hyun-wook_%EC%B5%9C%ED%98%84%EC%9A%B1_in_2022.png"
+    },
+    {
+      "id": 11,
+      "name": "Jo Jung Suk",
+      "img": "https://asianwiki.com/images/2/28/Cho_Jung-Seok-10-25-2015.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Park Hee Soon",
+      "img": "https://asianwiki.com/images/6/63/Park_Hee-Soon-p3.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ahn Bo Hyun",
+      "img": "https://asianwiki.com/images/1/14/Ahn_Bo-Hyun-1988-p1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Yoo Yeon Seok",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Yoo_Yeon-seok_-_Bean_Pole_catalogue_2015_Spring-Summer_02_%28cropped%29.jpg"
+    },
+    {
+      "id": 15,
+      "name": "IU",
+      "img": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+    },
+    {
+      "id": 16,
+      "name": "Yeo Jin Goo",
+      "img": "https://asianwiki.com/images/d/da/Yeo_Jin-Goo-The_Long_Way_Home-GV.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Lee Joon Gi",
+      "img": "https://i.mydramalist.com/67r8d_5c.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Jeon Mi Do",
+      "img": "https://asianwiki.com/images/f/fc/Jeon_Mi-Do-1982-p1.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Lee Sun Kyun",
+      "img": "https://i.mydramalist.com/472z1_5_c.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Moon Chae Won",
+      "img": "https://cdn0-production-images-kly.akamaized.net/-D0AUjs8030PSgRzLns0ei3Hyiw=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4262332/original/043489200_1671098108-Moon-Chae-Won2.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Lee Hye Ri",
+      "img": "https://asianwiki.com/images/0/0f/Hyeri-1994-p1.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Go Kyung Pyo",
+      "img": "https://asianwiki.com/images/4/42/Ko_Kyoung-Pyo-1990-p1.jpeg"
+    }, 
+    {
+      "id": 23,
+      "name": "Park Eun Bin",
+      "img": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSH_hNaq_n8akEaV6-C5NugDFXeH1q5BvKXLKa_PXJRhqVjh9hhqkxIMkG481WIbsFtWV-WZB3VU9bbCXQ"
+    }, 
+    {
+      "id": 24,
+      "name": "Shin Hye Sun",
+      "img": "https://asianwiki.com/images/5/59/Shin_Hye-Sun-1989-pt1.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Seo Yea Ji",
+      "img": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRffTRdsk9DJuBUG-YMHYizrE6it-3cIZcVXPfdUXy4fD7cvnjkFvkaY-d2QUAmzJC3s8nzZ83528ubXfQ"
+    },
+    {
+      "id": 26,
+      "name": "Kim Hee Ae",
+      "img": "https://asianwiki.com/images/d/df/Kim_Hee-Ae-1967-p1.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Song Kang",
+      "img": "https://ntvb.tmsimg.com/assets/assets/1235954_v9_aa.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Kim Young Min",
+      "img": "https://asianwiki.com/images/7/75/Kim_Young-Min-1971-pr1.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Lee Dong Wook",
+      "img": "https://akcdn.detik.net.id/community/media/visual/2020/11/06/lee-dong-wook-8_43.jpeg?w=250&q="
+    },
+    {
+      "id": 30,
+      "name": "Gong Yoo",
+      "img": "https://asianwiki.com/images/5/5e/Gong_Yoo-1979-p1.jpeg"
+    },
+    {
+      "id": 31,
+      "name": "Yoo In Na",
+      "img": "https://asianwiki.com/images/d/db/Yoo_In-Na-1982-p1.jpg"
+    }
+  ],
+  "drama" : [
+    {
+      "id": 1,
+      "name": "Flower of Evil",
+      "year_of_release": 2020,
+      "original_network": "tvN",
+      "aired_on": ["Wednesday", "Thursday"],
+      "number_of_episodes": 16,
+      "rating": 4,
+      "synopsis": "Although Baek Hee Sung is hiding a dark secret surrounding his true identity, he has established a happy family life and a successful career. He is a loving husband and doting father to his young daughter. But his perfect façade begins to crumble when his wife, Cha Ji Won, a homicide detective, begins investigating a string of serial murders from 15 years ago. Ji Won notices changes in Hee Sung's behavior and begins to wonder if he could possibly be hiding something from her.",
+      "genre": ["Thriller", "Romance", "Crime", "Melodrama"],
+      "cast": [
+        17,
+        20,
+        "Jang Hee Jin",
+        "Seo Hyun Woo"
+      ],
+      "production_companies": "Monster Union",
+      "img" : "https://thumbor.prod.vidiocdn.com/lgD_CpS1Gq-0LVCWH-KTBBbwgEY=/filters:quality(70)/vidio-web-prod-film/uploads/film/image_portrait/1591/flower-of-evil-b9f2e5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hospital Playlist",
+      "year_of_release": 2020,
+      "original_network": "Netflix, tvN",
+      "aired_on": ["Thursday"],
+      "number_of_episodes": 12,
+      "rating": 4,
+      "synopsis": "The stories of people going through their days that are seemingly ordinary but actually special, at the hospital, a place known as the microcosm of life, where someone is being born and someone's life meets their ending. The five doctors are long-time friends of 20 years who started their undergrad in 1999 in the same medical school and now are colleagues in the same hospital and have a band together.",
+      "genre": ["Friendship", "Romance", "Life", "Medical"],
+      "cast": [
+        11,
+        14,
+        "Jung Kyung Ho",
+        "Kim Dae Myung",
+        18,
+        "Shin Hyun Bin"
+      ],
+      "production_companies": "Egg Is Coming, CJ ENM",
+      "img" : "https://upload.wikimedia.org/wikipedia/id/7/7a/Hospital_Playlist_poster.jpg"
+    },
+    {
+      "id": 3,
+      "name": "My Mister",
+      "year_of_release": 2018,
+      "original_network": "tvN",
+      "aired_on": ["Wednesday", "Thursday"],
+      "number_of_episodes": 16,
+      "rating": 4,
+      "synopsis": "Park Dong Hoon is a middle-aged engineer who is married to attorney Kang Yoon Hee. However, his life is not that happy as he has two unemployed brothers, Sang Hoon and Gi Hoon, who rely on him. Moreover, his wife is secretly having an affair with CEO Do Joon Yeong, his current boss and college junior.",
+      "genre": ["Psychological", "Life", "Drama", "Family"],
+      "cast": [
+        19,
+        15,
+        28
+      ],
+      "production_companies": "Chorokbaem Media",
+      "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThyhG3xo-2t-kEb7ORuCiQC2bzve6Wl_1n-OCk2sClpqJyISZA"
+    },
+    {
+      "id": 4,
+      "name": "Reply 1988",
+      "year_of_release": 2015,
+      "original_network": "tvN",
+      "aired_on": ["Friday", "Saturday"],
+      "number_of_episodes": 20,
+      "rating": 4,
+      "synopsis": "Five childhood friends, who all live in the same Ssangmundong neighborhood of Seoul, lean on each other to survive their challenging teen years and set a path for their futures. Sung Deok Sun struggles for attention as the middle child in her poor family while also carrying the burden of her 999th ranking in school. Kim Jung Hwan only has a one-track mind for soccer, even after his family becomes rich overnight. Sung Sun Woo is the perfect student, student council president, and a caring and dependable son in his family. Ryu Dong Ryong is a geek who knows more about girls and life than the rest of his friends, but his poor academic score prevents him from being able to go to college. Choi Taek is a genius baduk player who dropped out of school to go professional. As the group of friends gets into and out of mischief around the neighborhood, what experiences from these memorable times together will they carry with them into their future lives?",
+      "genre": ["Comedy", "Romance", "Youth", "Family"],
+      "cast": [
+        21,
+        22,
+        "Ryu Joon Yeol",
+        "Park Bo Gum",
+        "Lee Dong Hwi",
+        "Sung Dong Il"
+      ],
+      "production_companies": "CJ ENM",
+      "img" : "https://thumbor.prod.vidiocdn.com/piPIFQHeL-NfYqKqUXEwHXV9fuk=/filters:quality(70)/vidio-web-prod-film/uploads/film/image_portrait/69/reply-1988-e9b7f7.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Extraordinary Attorney Woo",
+      "year_of_release": 2022,
+      "original_network": "ENA, Netflix",
+      "aired_on": ["Wednesday", "Thursday"],
+      "number_of_episodes": 16,
+      "rating": 4,
+      "synopsis": "Diagnosed with autism spectrum disorder, 27-year-old Woo Young Woo graduated at the top of her class from the prestigious Seoul National University for both college and law school due to her high IQ of 164, impressive memory, and creative thought process. Working as a lawyer, she finds herself struggling when it comes to social interactions.",
+      "genre": ["Law", "Romance", "Life", "Drama"],
+      "cast": [
+        23,
+        7,
+        "Kang Ki Young",
+        "Jeon Bae Soo",
+        "Baek Ji Won",
+        "Jin Kyung"
+      ],
+      "production_companies": "AStory, KT Studio Genie, Nangman Crew",
+      "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbpoUrCurs17HjSW-4RYSYJCo2zYRR1JIuogGzwzTpEz3YeImQ"
+    },
+    {
+      "id": 6,
+      "name": "Mr. Queen",
+      "year_of_release": 2020,
+      "original_network": "tvN",
+      "aired_on": ["Saturday", "Sunday"],
+      "number_of_episodes": 20,
+      "rating": 4,
+      "synopsis": "Jang Bong Hwan is a South Korean chef who has risen up the ranks to cook for the country's top politicians in the Blue House's presidential residences. After a serious accident, he finds himself in the body of the young queen, Kim So Yong, when whisked away to an era deep in Korea's past.",
+      "genre": ["Historical", "Mystery", "Comedy", "Romance"],
+      "cast": [
+        24,
+        "Kim Jung Hyun",
+        "Kim Tae Woo",
+        "Jo Yun Hee"
+      ],
+      "production_companies": "Crave Works, YG Entertainment",
+      "img" : "https://awsimages.detik.net.id/community/media/visual/2021/02/02/mr-queen.jpeg?w=1277"
+    },
+    {
+      "id": 7,
+      "name": "It's Okay to Not Be Okay",
+      "year_of_release": 2020,
+      "original_network": "Netflix, tvN",
+      "aired_on": ["Saturday", "Sunday"],
+      "number_of_episodes": 16,
+      "rating": 4,
+      "synopsis": "Moon Gang Tae is a community health worker at a psychiatric ward who was blessed with everything including a great body, smarts, ability to sympathize with others, patience, ability to react quickly, stamina, and more. Meanwhile, Ko Moon Young is a popular writer of children's literature who, due to suffering from an antisocial personality disorder, seems extremely selfish, arrogant, and rude.",
+      "genre": ["Psychological", "Comedy", "Romance", "Drama"],
+      "cast": [
+        6,
+        25,
+        "Oh Jung Se",
+        "Park Gyu Young",
+        "Jang Young Nam",
+        "Kim Chang Wan"
+      ],
+      "production_companies": "Story TV, Gold Medalist",
+      "img" : "https://m.media-amazon.com/images/M/MV5BYTk0Nzk5ZWYtYTNlZi00YjBjLWJhYjctMWMwMmYyMDA5ZjJmXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Nevertheless",
+      "year_of_release": 2021,
+      "original_network": "JTBC",
+      "aired_on": ["Saturday"],
+      "number_of_episodes": 10,
+      "rating": 3,
+      "synopsis": "The story of a romance between a man who is annoyed with relationships but likes to flirt and a woman who wants to date but does not believe in love",
+      "genre": ["Romance"],
+      "cast": [
+        1,
+        27,
+        "Chae Jong-Hyeop"
+      ],
+      "production_companies": "Studio Dragon, Culture Depot",
+      "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQZKfkQElQJJBLLKmngUWEmXdSJQX0-h9Uw4xC72PtAGYAmAyF"
+    },
+    {
+      "id": 9,
+      "name": "Healer",
+      "year_of_release": 2014,
+      "original_network": "KBS2",
+      "aired_on": ["Monday", "Tuesday"],
+      "number_of_episodes": 20,
+      "rating": 3,
+      "synopsis": "Seo Jung Hoo is a special kind of night courier, known only as Healer by his clients. For the right price and with the help of a genius hacker, he gets his clients whatever they want, as long as it doesn't involve murder. His latest job leads him to a second-rate tabloid writer, Chae Young Shin, and the successful reporter, Kim Moon Ho. He begins to uncover the mystery of his own shared past with the two reporters, thus putting them all in danger.",
+      "genre": ["Action", "Thriller", "Mystery", "Romance"],
+      "cast": [
+        2,
+        3,
+        "Yoo Ji Tae",
+        "Kim Mi Kyung",
+        "Park Sang Won",
+        "Do Ji Won"
+      ],
+      "production_companies": "Kim Jong-hak Production",
+      "img" : "https://akcdn.detik.net.id/visual/2021/05/17/drama-korea-healer-2014-1_169.jpeg?w=650"
+    },
+    {
+      "id": 10,
+      "name": "Twenty-Five Twenty-One",
+      "year_of_release": 2022,
+      "original_network": "Netflix, tvN",
+      "aired_on": ["Saturday", "Sunday"],
+      "number_of_episodes": 16,
+      "rating": 3,
+      "synopsis": "In a time when dreams seem out of reach, a teen fencer pursues big ambitions and meets a hardworking young man who seeks to rebuild his life. Na Hee Do is a member of her high school fencing team. Due to the South Korean financial crisis, the high school fencing team gets disbanded. Getting through all the difficulties, she becomes a member of the national fencing team. The South Korean financial crisis also causes Baek Yi Jin's father's business to go bankrupt. This leads to a life change for Baek Yi Jin, from living the life of a wealthy person to a poor person. While studying, he works part-time jobs like delivering newspapers. Later, he becomes a sports reporter for a broadcasting network.",
+      "genre": ["Romance", "Life", "Drama", "Melodrama"],
+      "cast": [
+        4,
+        8,
+        9,
+        "Choi Hyun Wook",
+        "Lee Joo Myung",
+        "Seo Jae Hee"
+      ],
+      "production_companies": "Hwa&Dam Pictures",
+      "img" : "https://akcdn.detik.net.id/visual/2022/02/08/drama-korea-twenty-five-twenty-one-2022-1_169.webp?w=650"
+    },
+    {
+      "id": 11,
+      "name": "My Name",
+      "year_of_release": 2021,
+      "original_network": "Netflix",
+      "aired_on": ["Friday"],
+      "number_of_episodes": 8,
+      "rating": 4,
+      "synopsis": "Following her father's murder, a revenge-driven woman puts her trust in a powerful crime boss and enters the police force under his direction.",
+      "genre": ["Action", "Thriller", "Crime"],
+      "cast": [
+        1,
+        12,
+        13,
+        "Lee Hak Joo",
+        "Kim Sang Ho",
+        "Jang Yool"
+      ],
+      "production_companies": "Studio Santa Claus Entertainment",
+      "img" : "https://awsimages.detik.net.id/community/media/visual/2021/10/18/my-name-4_43.jpeg?w=1200"
+    },
+    {
+      "id": 12,
+      "name": "Hotel del Luna",
+      "year_of_release": 2019,
+      "original_network": "tvN",
+      "aired_on": ["Saturday", "Sunday"],
+      "number_of_episodes": 16,
+      "rating": 4,
+      "synopsis": "Nestled deep in the heart of Seoul's thriving downtown sits a curious hotel, the like of which no one has ever seen before. Old beyond measure, the building has stood for millennia, an ever-present testament to the fact that things are not always what they seem. Running this hotel is Jang Man Wol, a greedy, suspicious soul who has spent the past thousand years acting as the establishment's CEO. Bound to the hotel by a deity who keeps her there to save her from going berserk and self-destruction with rage, hatred, and thirst for revenge. Her only hope of escape is if she could let go of her resentment and hatred, and find love. Trapped in her resentment for a betrayal, Man Wol is doomed to spend all of eternity running this odd establishment, catering to the needs of the most peculiar clientele.",
+      "genre": ["Horror", "Comedy", "Romance", "Fantasy"],
+      "cast": [
+        15,
+        16,
+        "Shin Jung Keun",
+        "Bae Hae Seon",
+        "P.O",
+        "Jo Hyun Chul"
+      ],
+      "production_companies": "GTist",
+      "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBPzapGGktvQtObSwrqFsarOC9_ZWISZFhUnen8FZBBu-s4Hvu"
+    },
+    {
+      "id": 13,
+      "name": "Dr Romantic",
+      "year_of_release": 2016,
+      "original_network": "SBS",
+      "aired_on": ["Monday", "Tuesday"],
+      "number_of_episodes": 20,
+      "rating": 4,
+      "synopsis": "Kim Sa Bu was once a famous surgeon at the peak of his career at a major hospital. But he suddenly gives it all up one day to live in seclusion and work as a neighborhood doctor in a small town. He now goes by œTeacher Kim and refers to himself as the œRomantic Doctor. Meanwhile, Kang Dong Joo became a doctor to make something of himself after growing up poor, and he seeks out VIP patients to achieve the success that he desperately wants. Yoon Seo Jung is a passionate young surgeon who is haunted by a mistake from her past and tries to get over it. When Dong Joo and Seo Jung meet the quirky Teacher Kim, their lives and careers will never be the same again.",
+      "genre": ["Romance", "Drama", "Medical"],
+      "cast": [
+        "Han Seok Kyu",
+        14,
+        "Seo Hyun Jin",
+        "Im Won Hee",
+        "Jin Kyung",
+        "Byun Woo Min"
+      ],
+      "production_companies": "SBS",
+      "img" : "https://cdn1-production-images-kly.akamaized.net/RVx9Yb-9r42UaiDegWKVWKH-NJk=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3609594/original/070811700_1634870341-Dr._Romantic_2_Landscape_B.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Signal",
+      "year_of_release": 2016,
+      "original_network": "tvN",
+      "aired_on": ["Friday", "Saturday"],
+      "number_of_episodes": 16,
+      "rating": 4,
+      "synopsis": "Fifteen years ago, a young girl was kidnapped on the way from school, and Park Hae Yeong, who was an elementary school student at that time, witnessed the crime. A few days later, the girl was found dead, and the police were not able to solve the case. As time went on, Hae Yeong started distrusting the police. One day, Hae Yeong receives a walkie-talkie that allows him to get in contact with Detective Lee Jae Han who is in the past. Police officers Hae Yeong, Jae Han, and Cha Soo Hyun then set out on a journey to solve cold cases.",
+      "genre": ["Mystery", "Thriller", "Crime", "Supernatural"],
+      "cast": [
+        5,
+        "Kim Hye Soo",
+        "Cho Jin Woong",
+        "Jang Hyun Sung",
+        "Kim Won Hae",
+        "Jung Hae Kyun"
+      ],
+      "production_companies": "A Story",
+      "img" : "https://upload.wikimedia.org/wikipedia/id/c/cf/Signal_Korean_Drama.jpg"
+    }, 
+    {
+      "id": 15,
+      "name": "The World of the Married",
+      "year_of_release": 2020,
+      "original_network": "JTBC",
+      "aired_on": ["Friday", "Saturday"],
+      "number_of_episodes": 16,
+      "rating": 4,
+      "synopsis": "Ji Sun-Woo (Kim Hee-Ae) is a family medicine doctor. She is married to Lee Tae-Oh (Park Hae-Joon) and they have a son. She seems to have everything, including a successful career and a happy family, but she is betrayed by her husband and others.Meanwhile Lee Tae-Oh dreams of becoming a famous movie director. He runs an entertainment business with the support of his wife Ji Sun-Woo. Even though he loves his wife, Lee Tae-Oh falls into a dangerous relationship.",
+      "genre": ["Melodrama", "Romance", "Thriller", "Family"],
+      "cast": [
+        26,
+        "Park Hae Joon",
+        1,
+        28
+      ],
+      "production_companies": "JTBC Studios",
+      "img" : "https://assets-a1.kompasiana.com/items/album/2020/04/16/link-nonton-drama-korea-the-world-of-the-married-5e975276d541df5ce05c0c63.jpg"
+    }, 
+    {
+      "id": 16,
+      "name": "Forecasting Love and Weather",
+      "year_of_release": 2022,
+      "original_network": "JTBC",
+      "aired_on": ["Saturday", "Sunday"],
+      "number_of_episodes": 16,
+      "rating": 4,
+      "synopsis": "A story depicting love and work lives of employees at the Korea Meteorological Administration. Jin Ha-Kyung and Lee Shi-Woo are two people employed there.",
+      "genre": ["Romantic Comedy"],
+      "cast": [
+        3,
+        27, 
+        "Yoon Park"
+      ],
+      "production_companies": "JTBC Studios",
+      "img" : "https://asianwiki.com/images/2/27/Forecasting_Love_and_Weather-mp2.jpg"
+    }, 
+    {
+      "id": 17,
+      "name": "Guardian: The Lonely and Great God",
+      "year_of_release": 2016,
+      "original_network": "TVN",
+      "aired_on": ["Saturday", "Sunday"],
+      "number_of_episodes": 16,
+      "rating": 4,
+      "synopsis": "In ancient times, Kim Shin is an unbeatable general in wars, but the young King is jealous of Kim Shin and kills him. Kim Shin becomes Dokkaebi (Goblin), possessing an immortal life. At first he thinks that he is blessed, but he realizes that he is cursed.",
+      "genre": ["Fantasy","Romance","Drama"],
+      "cast": [
+        30,
+        29,
+        31,
+        "Kim Go Eun"
+      ],
+      "production_companies": "CJ ENM",
+      "img" : "https://m.media-amazon.com/images/M/MV5BZTg0YmQxZTgtMzgwYi00N2NhLTlkMWYtOWYwNDA1YjkxMmViL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+    }, 
+    {
+      "id": 18,
+      "name": "Touch Your Heart",
+      "year_of_release": 2019,
+      "original_network": "TVN",
+      "aired_on": ["Wednesday", "Thursday"],
+      "number_of_episodes": 16,
+      "rating": 3,
+      "synopsis": "Oh Yoon-Seo is a popular actress. She is famous for her beautiful appearance, but her acting is bad. She gets involved in a scandal with the son from a chaebol family. Her acting career declines precipitously. Oh Yoon-Seo hears that a famous screenwriter wants her to play the lead female role for a drama series. The character works as a secretary for a lawyer. To gain experience for the role, Oh Yoon-Seo is required to work as a lawyer's secretary for a few months. Meanwhile, Kwon Jung-Rok is an attorney for a law firm. He is arrogant and cold-hearted. One day, his boss asks Kwon Jung-Rok to let actress Oh Yoon-Seo work as his secretary for 3 months. He is not happy about the situation, but he has to accept.",
+      "genre": ["Romantic Comedy"],
+      "cast": [
+        29,
+        31,
+        "Lee Sang Woo"
+      ],
+      "production_companies": "Studio Dragon",
+      "img" : "https://asianwiki.com/images/1/16/Touch_Your_Heart-p0001.jpg"
+    }
+  ]
+}
